@@ -18,3 +18,9 @@
 - **Backend:** Firebase
 - **Push Notifications:** Firebase Cloud Messaging
 - **Authentication:** Firebase Authentication
+
+## Screenshots
+<img width="298" height="968" alt="chimba-login" src="https://github.com/user-attachments/assets/19134fe8-0c4a-481f-8a4d-1914e36537b0" />
+<img width="298" height="968" alt="chimba-cards" src="https://github.com/user-attachments/assets/3ce3a1dc-b7a1-4511-b86a-60e4fe529480" />
+<img width="298" height="968" alt="chimba-messages" src="https://github.com/user-attachments/assets/e9eb749d-98c3-42e9-9576-217f0bd9a11d" />
+<img width="298" height="968" alt="chimba-profile" src="https://github.com/user-attachments/assets/8b458de5-553f-4a98-911f-f352800f2a99" />
